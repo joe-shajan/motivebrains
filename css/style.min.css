@@ -1,0 +1,24 @@
+.carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html
+{
+    height:100%;
+    
+    
+}
+    .navbar{background-color:rgba(0,0,0,.2)}
+    .page-footer,.top-nav-collapse{
+        background-color:#000000
+    }
+    @media only screen and (max-width:768px){
+        .navbar{background-color:none}
+    }
+
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+    
+}
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+textarea.form-control{
+    height: 209px;
+}
